@@ -1,4 +1,4 @@
-package clissh
+package ssh
 
 import (
 	"fmt"
